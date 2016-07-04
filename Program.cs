@@ -47,7 +47,7 @@ namespace Reindexation
 
 
 
-    class Program
+    class Program_2
     {
 
         static ConcurrentDictionary<int, IEnumerable<IHit<object>>> DataStores;
